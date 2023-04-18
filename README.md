@@ -1,5 +1,6 @@
 
 Code python pour prendre un screenshot instantannément
+
 fichier FSS.py lance avec la console      (FastSavingScreenshot)
 fichier FSSh.pyw lance sans console       (FastSavingScreenshotHidden)
 
